@@ -1,0 +1,19 @@
+body {
+    background-image: url("forest.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#coming-soon {
+    width: 45%;
+    margin: 0 auto;
+}
+
+#coming-soon>h1 {
+    width 100%;
+    margin: 0 auto;
+}
+
+
+
