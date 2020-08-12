@@ -3,17 +3,37 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+#container {
+    position: relative;
 }
 
 #coming-soon {
-    width: 45%;
-    margin: 0 auto;
+    position: absolute;
+    top: 50%
+    width: 100%;
+    text-align: center;
 }
 
-#coming-soon>h1 {
-    width 100%;
-    margin: 0 auto;
+#footer {
+    position: ;
+ }
+
+a:link {
+    color: white;
 }
 
+a:visited {
+    color: #a9a9a9;
+}
 
+a:hover {
+    color: darkseagreen;
+}
+
+a:active {
+    color: white;
+}
 
